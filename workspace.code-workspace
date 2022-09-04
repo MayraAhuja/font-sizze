@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Gesture App"
+		},
+		{
+			"path": "..\\mobilenet-realtime-Image-Identification"
+		},
+		{
+			"path": "..\\Voice_selfie_app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "font size changer"
+	}
+}

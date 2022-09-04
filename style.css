@@ -1,0 +1,21 @@
+body{
+    color: white;
+}
+
+#size{
+    background-color:black;
+}
+
+canvas{
+    box-shadow: 4px 2px 100px black;
+    background-color: azure;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    line-height:3;
+    background-color: black;
+}
